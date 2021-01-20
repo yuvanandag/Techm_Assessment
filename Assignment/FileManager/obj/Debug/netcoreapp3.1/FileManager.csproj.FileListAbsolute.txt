@@ -1,0 +1,13 @@
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\bin\Debug\netcoreapp3.1\FileManager.exe
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\bin\Debug\netcoreapp3.1\FileManager.deps.json
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.json
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.dev.json
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\bin\Debug\netcoreapp3.1\FileManager.dll
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\bin\Debug\netcoreapp3.1\FileManager.pdb
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfoInputs.cache
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfo.cs
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\obj\Debug\netcoreapp3.1\FileManager.csproj.CoreCompileInputs.cache
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\obj\Debug\netcoreapp3.1\FileManager.dll
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\obj\Debug\netcoreapp3.1\FileManager.pdb
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\obj\Debug\netcoreapp3.1\FileManager.genruntimeconfig.cache
+E:\A_Tech_Interview\Attended\Microsoft\Assignment\FileManager\obj\Debug\netcoreapp3.1\FileManager.csprojAssemblyReference.cache
