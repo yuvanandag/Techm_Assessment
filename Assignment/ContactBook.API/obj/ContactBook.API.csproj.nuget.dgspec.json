@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\A_Tech_Interview\\Attended\\Microsoft\\Assignment\\ContactBook.API\\ContactBook.API.csproj": {}
+    "E:\\A_Tech_Interview\\Attended\\Techm_Assessment\\Assignment\\ContactBook.API\\ContactBook.API.csproj": {}
   },
   "projects": {
-    "E:\\A_Tech_Interview\\Attended\\Microsoft\\Assignment\\ContactBook.API\\ContactBook.API.csproj": {
+    "E:\\A_Tech_Interview\\Attended\\Techm_Assessment\\Assignment\\ContactBook.API\\ContactBook.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\A_Tech_Interview\\Attended\\Microsoft\\Assignment\\ContactBook.API\\ContactBook.API.csproj",
+        "projectUniqueName": "E:\\A_Tech_Interview\\Attended\\Techm_Assessment\\Assignment\\ContactBook.API\\ContactBook.API.csproj",
         "projectName": "ContactBook.API",
-        "projectPath": "E:\\A_Tech_Interview\\Attended\\Microsoft\\Assignment\\ContactBook.API\\ContactBook.API.csproj",
+        "projectPath": "E:\\A_Tech_Interview\\Attended\\Techm_Assessment\\Assignment\\ContactBook.API\\ContactBook.API.csproj",
         "packagesPath": "C:\\Users\\yuvan\\.nuget\\packages\\",
-        "outputPath": "E:\\A_Tech_Interview\\Attended\\Microsoft\\Assignment\\ContactBook.API\\obj\\",
+        "outputPath": "E:\\A_Tech_Interview\\Attended\\Techm_Assessment\\Assignment\\ContactBook.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -48,16 +48,6 @@
               "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.0, )"
             },
